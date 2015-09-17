@@ -2,6 +2,7 @@ body {
 	background-image: url("");
 	background-color: #FFFFFF;
 	background-position: center;
+	font-family: 'Lato', sans-serif;
 }
 
 #container {
@@ -15,7 +16,6 @@ body {
 }
 
 #header {
-	font-family:helvetica;
 	color: #000000;
 	text-align: center;
 	width: 500px;
